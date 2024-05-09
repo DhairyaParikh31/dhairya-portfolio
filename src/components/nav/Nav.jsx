@@ -26,7 +26,7 @@ const Nav = () => {
         }
       });
 
-      setActiveTab(currentSection || 'home'); // Set default to 'home' if no section is in view
+      setActiveTab(currentSection || 'home');
     };
 
     window.addEventListener("scroll", handleScroll);
