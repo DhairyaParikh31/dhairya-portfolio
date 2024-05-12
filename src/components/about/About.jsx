@@ -21,7 +21,7 @@ const About = () => {
             <article className='about__card'>
               <FaRegFileCode className='about__icon'/>
               <h5>Project</h5>
-              <small>5+ Completed</small>
+              <small>3+ Completed</small>
             </article>
             <article className='about__card'>
               <GoChecklist className='about__icon'/>
