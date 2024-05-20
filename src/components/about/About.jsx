@@ -25,12 +25,8 @@ const About = () => {
             </article>
             <article className='about__card'>
               <GoChecklist className='about__icon'/>
-              <h5>Skills</h5>
-              <small><ul>
-                <li>• Android App Development</li>
-                <li>• Web Development</li>
-                <li>• Collaborative team member</li>
-                <li>• Leadership Quality</li></ul></small>
+              <h5>Experience</h5>
+              <small>1+ Months</small>
             </article>
             <article className='about__card'>
               <FaAward className='about__icon'/>
@@ -38,6 +34,12 @@ const About = () => {
               <small>8.22 out of 10</small>
             </article>
           </div>
+          
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex, iure pariatur quasi distinctio tenetur rem est ea. Dolorem deleniti consequuntur deserunt voluptate voluptatem similique incidunt aliquam error, dignissimos praesentium qui.
+          </p>
+          
+          <a href='#contact' className='btn btn-primary'>Let's Talk</a>
         </div>
       </div>
     </section>
