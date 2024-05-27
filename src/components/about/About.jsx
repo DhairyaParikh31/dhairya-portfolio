@@ -36,7 +36,10 @@ const About = () => {
           </div>
           
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex, iure pariatur quasi distinctio tenetur rem est ea. Dolorem deleniti consequuntur deserunt voluptate voluptatem similique incidunt aliquam error, dignissimos praesentium qui.
+          Hello👋! I'm Dhairya Parikh, a final year B.Tech Computer Science student with a passion for coding and technology. I'm on a mission to become a successful software engineer 🚀.</p>
+          <p>I've dived deep into programming, algorithms, and software development, gaining hands-on experience through projects. Proficient in Java and Python, I specialize in Android app development 📱 and am currently learning web development 🌐. </p>
+          <p>As I approach graduation, I'm excited to work with dynamic teams and to innovate and grow 🌟.
+          Explore my projects and let's create something awesome together!
           </p>
           
           <a href='#contact' className='btn btn-primary'>Let's Talk</a>
